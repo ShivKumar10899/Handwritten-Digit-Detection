@@ -1,0 +1,8 @@
+torch
+torchvision
+streamlit
+opencv-python
+numpy
+pygame
+edge_tts
+asyncio
